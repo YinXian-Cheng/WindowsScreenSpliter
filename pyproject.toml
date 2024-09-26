@@ -1,0 +1,19 @@
+[project]
+name = "zima_app_switcher"
+version = "1.0.1"
+authors = [
+  { name="ZimaDynamic", email="sales@zimashuttle.us" },
+]
+description = "An application that shows app1 on virtual desktop1 and app2 on virtual desktop2, switching between them as both apps are opened."
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: Proprietary",
+    "Operating System :: Microsoft :: Windows :: Windows 10",
+    "Operating System :: Microsoft :: Windows :: Windows 11",
+]
+dependencies = [
+    "pyvda",
+    "pygetwindow"
+]

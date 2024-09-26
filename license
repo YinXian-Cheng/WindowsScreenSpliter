@@ -1,14 +1,18 @@
-LICENSE
+License
+
 Version 1.0, September 25, 2024
-
 1. Permission to Use
-We grant you permission to use this software (the "Software") internally within your company for any purpose, including commercial activities. However, please note that this license is for internal use only. You may not share, distribute, or sell the Software, or any product based on it, outside of your organization.
 
+We grant you permission to use this software (the "Software") internally within your company for any purpose, including commercial activities. However, this license is for internal use only. You may not share, distribute, or sell the Software, or any product based on it, outside of your organization.
 2. Limits on Redistribution and Products
-This license allows you to use the Software for your internal operations, but you may not use it to create products for sale, licensing, or distribution to customers or third parties. Any modifications or enhancements you make to the Software must also follow this rule and remain for internal use only.
 
+You may not use this Software or any part of it to create products for sale, licensing, or distribution to customers or third parties. Any modifications or enhancements to the Software must also remain for internal use only.
 3. Governing Law
-The terms of this license are governed by the laws of the State of California. By using this Software, you agree that any legal issues or disputes will be resolved under California law.
 
-4. Termination of License
-If you violate any of the terms outlined here, this license will automatically end. When that happens, you must immediately stop using the Software.
+This license is governed by the laws of the State of California, and any disputes will be resolved under California law.
+4. No Warranty
+
+This Software is provided "as is", without any warranties of any kind. We are not responsible for any claims or damages arising from your use of the Software.
+5. Termination
+
+If you violate any terms of this license, your rights under this license automatically end. You must stop using the Software immediately if this happens.

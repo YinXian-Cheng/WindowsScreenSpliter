@@ -3,10 +3,12 @@ import time
 from pyvda import get_apps_by_z_order, VirtualDesktop, get_virtual_desktops
 import pygetwindow as gw
 import configparser
+import os
 
 # 读取配置文件
 config = configparser.ConfigParser()
-config.read('config.ini')
+config_path = os.path.join(os.path.dirname(__file__), 'config.ini')
+config.read(config_path)
 
 # 获取APP1和APP2的配置信息
 app1_title = config['APP1']['title']
